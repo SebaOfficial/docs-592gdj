@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-itu3nn.indocuansite.online/sitemap.xml
